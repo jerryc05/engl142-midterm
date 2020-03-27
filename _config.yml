@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ENGL142 Midterm Proj - Ziyan Chen
+title: ENGL142 Midterm Project
 email: jerryc05@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the ENGL 142 Midterm Project created by Ziyan Chen (UID 115979765).
