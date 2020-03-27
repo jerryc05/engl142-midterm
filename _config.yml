@@ -27,11 +27,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jerryc05.github.io/engl142-midterm/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jerryc05
 github_username:  jerryc05
+livereload: true
+future: true
 
 # GitHub requirements
 lsi: false
 safe: true
-source: ./
 incremental: false
 highlighter: rouge
 gist:
