@@ -23,8 +23,8 @@ email: jerryc05@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the ENGL 142 Midterm Project created by Ziyan Chen (UID 115979765).
   This project introduces E. Cooke's "The Sot-Weed Factor, or A Voyage to Maryland" using websites built by Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jerryc05.github.io/engl142-midterm/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/engl142-midterm" # the subpath of your site, e.g. /blog
+url: "https://jerryc05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jerryc05
 github_username:  jerryc05
 livereload: true
