@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ENGL142 Midterm Project
+author: Ziyan Chen
 email: jerryc05@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the ENGL 142 Midterm Project created by Ziyan Chen (UID 115979765).
@@ -43,8 +44,8 @@ kramdown:
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
