@@ -36,12 +36,17 @@ Photo by Wikipedia, used under permission.</p>
 
 # References:
 
-1. Ford, S. (2003). Humor's role in imagining america: Ebenezer cook's" the sot-weed
+1. Ebenezer Cook(e). (n.d.) Retrieved March 25, 2020,
+from [https://web.archive.org/web/20010510084216/http://www.uncp.edu/home/canada/work/canam/cooke.htm](https://web.archive.org/web/20010510084216/http://www.uncp.edu/home/canada/work/canam/cooke.htm)
+
+2. Egan, J. (1999). The colonial English body as commodity in Ebenezer Cooke’s The Sot-Weed Factor. *Criticism, 41(3),* 385.
+
+3. Ford, S. (2003). Humor's role in imagining america: Ebenezer cook's" the sot-weed
 factor". *The Southern Literary Journal, 35(2),* 1-12.
 
-2. The Project Gutenberg EBook of The Sot-weed Factor: or, A Voyage to
+4. The Project Gutenberg EBook of The Sot-weed Factor: or, A Voyage to
 Maryland. (n.d.). Retrieved March 25, 2020, from
 [https://www.gutenberg.org/files/21346/21346-h/21346-h.htm](https://www.gutenberg.org/files/21346/21346-h/21346-h.htm)
 
-3. The Sot-Weed Factor, or A Voyage to Maryland. (n.d.). Retrieved March 25, 2020,
+5. The Sot-Weed Factor, or A Voyage to Maryland. (n.d.). Retrieved March 25, 2020,
 from [https://umd.instructure.com/courses/1277442/files/55272056/download?download_frd=1](https://umd.instructure.com/courses/1277442/files/55272056/download?download_frd=1)
