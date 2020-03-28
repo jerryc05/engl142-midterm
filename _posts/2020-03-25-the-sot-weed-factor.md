@@ -18,6 +18,9 @@ I took my leave of Albion's Rocks:
 > Was forc'd `(forced)` my Native Soil to fly,
 >
 > And the Old World must bid good-buy
+```text
+The subject described the reason for leaving for Maryland.
+```
 
 But Heav'n `(heaven)` ordain'd `(ordained)` it should be so,
 
