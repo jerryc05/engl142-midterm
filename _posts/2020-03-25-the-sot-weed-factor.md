@@ -11,13 +11,13 @@ Of Friends unkind, and empty Purse;
 
 Plagues worse than fill'd `(filled)` Pandora's Box,
 
-I took my leave of Albion's Rocks:
+I took my leave of *Albion*'s Rocks:
 
 > With heavy Heart, concerned that I
 >
 > Was forc'd `(forced)` my Native Soil to fly,
 >
-> And the Old World must bid good-buy
+> And the *Old World* must bid good-buy
 ```text
 The subject described the reason for leaving for Maryland.
 ```
@@ -26,9 +26,9 @@ But Heav'n `(heaven)` ordain'd `(ordained)` it should be so,
 
 And to repine is vain we know:
 
-Freighted with Fools from Plymouth sound
+Freighted with Fools from *Plymouth* sound
 
-To Mary-Land our Ship was bound,
+To *Mary-Land* our Ship was bound,
 
 Where we arrived in dreadful Pain,
 
@@ -44,7 +44,7 @@ Both tore our Sails and sprung our Masts;
 
 Wearied, yet pleas'd `(pleased)` we did escape
 n
-Such Ills, we anchor'd `(anchored)` at the Cape;
+Such Ills, we anchor'd `(anchored)` at the *Cape*;
 ```textT
 Cape:   The "Capes of Virginea[sic.]," the first land
         on the coast of "Virginia" and "Mary-Land".
@@ -66,7 +66,7 @@ I put myself and Goods a-shoar:
 
 > Where soon repair'd `(repaired)` a numerous Crew,
 >
-> In Shirts and Drawers of Scotch-cloth Blue
+> In Shirts and Drawers of *Scotch-cloth* Blue
 > ```text
 > Scotch-cloth Blue: The Planters generally wear Blue Linnen.
 > ```
@@ -91,9 +91,9 @@ Moulded the brittle Clay in Jest.
 
 At last a Fancy very odd
 
-Took me, this was the Land of Nod;
+Took me, this was the Land of *Nod*;
 
-Planted at first, when Vagrant Cain,
+Planted at first, when Vagrant *Cain*,
 
 His Brother had unjustly slain;
 
@@ -103,7 +103,7 @@ From Vengeance dire, he hither run,
 
 And in a hut supinely dwelt,
 
-The first in Furs and Sot-weed dealt.
+The first in Furs and *Sot-weed* dealt.
 
 And ever since his Time, the Place,
 
@@ -347,9 +347,9 @@ With Market-place, Exchange, or Street;
 
 And if the Truth I may report,
 
-'Tis `(it is)` not so large as Tottenham Court.
+'Tis `(it is)` not so large as *Tottenham Court*.
 
-> St Mary's once was in repute,
+> St *Mary*'s once was in repute,
 >
 > Now here the Judges try the Suit
 >
@@ -368,6 +368,11 @@ Not one amongst the numerous throng,
 Knows what they mean, or has the Heart,
 
 To give his Verdict on a Stranger's part:
+```text
+The subject is merciless in his description of the
+incompetence of the judicial system in Annapolis by
+phrases including "get drunk" and "rarely give verdicts."
+```
 
 Now Court being call'd `(called)` by beat of Drum,
 
