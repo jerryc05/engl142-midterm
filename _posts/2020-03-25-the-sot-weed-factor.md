@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"The Sot-Weed Factor, or A Voyage to Maryland\" by E. Cook"
+title:  "\"The Sot-Weed Factor, or A Voyage to Maryland, A Satyr\" by E. Cook"
 author: Ziyan Chen
 date:   2020-03-25 00:00:04 -0400
 categories: engl142
