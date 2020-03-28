@@ -263,7 +263,6 @@ While Pon and Milk, with Mush well stoar'd `(stored)`,
 Pon:  Pon is Bread made of Indian-Corn.
 Mush: Mush is a sort of hasty-pudding made
       with water and Indian Flower.
-
 ```
 
 In Wooden Dishes grac'd `(graced)` the Board;
