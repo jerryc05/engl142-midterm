@@ -20,3 +20,7 @@ categories: engl142
 - The Sot-Weed Factr was composed in ***Hudibrasts***, a style of rhyming couplets where poetic lines of four iambic feet with often "outrageously rhymed couplets." *(umd.instructure.com)*
 
   - *Hudibras* is an English mock-heroic narrative poem from the 17th century written by Samuel Butler. It is a "satirical polemic" among various factions involved in the English Civil War *(Wikipedia)*.
+
+# Relating works
+
+- *John Barth*'s The Sot-Weed Factor is a "satirical epic of the colonization of Maryland" based on the life of an real poet "Ebnezer Cooke" (the author of this poem) (Barth).
