@@ -32,3 +32,13 @@ categories: engl142
   1. The English citizens would laugh at the portryal of colonists as uncivilized *(Ibid.)*.
 
   2. The colonists would laugh at the British factor's ineptitude *(Ibid.)*.
+
+- A poem that makes fun of the colonists would have no market in the colonies, just as a poem that makes fun of Englishmen would have no appeal to an English audience (Egan).
+
+  - Richard Slotkin, a cultural critic and historian, has argued that the poem satirizes "the whole race of Anglo-American" colonists for their Indianization *(Ibid.)*.
+
+  - J. A. Leo Lemay contends that "the real object of Cooke's satire was the ridiculous notion of Englishmen that America was a complete wilderness" *(Ibid.)*.
+
+  - Other critics have even suggested that "The Sot-Weed Factor is a double satire in which no one escapes unmocked *(Ibid.)*."
+
+  - The Sot-Weed Factor combines satiric conventions well known to eighteenth-century English readers *(Ibid.)*.
