@@ -53,7 +53,7 @@ Cape:   The "Capes of Virginea[sic.]," the first land
 
 But weighing soon, we plough'd `(ploughed)` the Bay,
 
-To Cove it in Piscato-way,
+To Cove it in *Piscato-way*,
 ```text
 To Cove:     To lie at Anchor safe in Harbour.
 Piscato-way: The Bay of Piscato-way, the usual place
@@ -73,13 +73,17 @@ I put myself and Goods a-shoar:
 >
 > With neither Stockings, Hat nor Shooe.
 
-These Sot-weed Planters Crowd the Shoar,
+These *Sot-weed* Planters Crowd the Shoar,
 
 In hue as tawny as a Moor:
 
 Figures so strange, no God design'd `(designed)`,
 
 To be a part of Humane kind:
+```text
+The subject described the Sot-Weed (tobacco) planters as
+poentially "non-human."
+```
 
 But wanton Nature, void of Rest,
 
