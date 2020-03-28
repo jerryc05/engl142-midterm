@@ -43,8 +43,9 @@ Wearied, yet pleas'd `(pleased)` we did escape
 
 Such Ills, we anchor'd `(anchored)` at the Cape;
 ```text
-Cape: the "Capes of Virginea[sic.]," the first Land on
-      the Coast of "Virginia" and "Mary-Land".
+Cape:   the "Capes of Virginea[sic.]," the first land
+        on the coast of "Virginia" and "Mary-Land".
+[sic.]: Notation for typos or suspected typos.
 ```
 
 But weighing soon, we plough'd `(ploughed)` the Bay,
