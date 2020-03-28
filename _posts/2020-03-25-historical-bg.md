@@ -18,3 +18,17 @@ categories: engl142
   - He practiced law on occasion before returning to London by 1694 *(Ibid.)*.
 
   - He later returned to Maryland after inheriting a half interest in his father's estate at Malden, Maryland *(Ibid.)*.
+
+# Comments of The Sot-Weed Factor
+
+- It became a revenge as he "hurls insults and curses" but some argued that the humor in the poem is two-fold. *(Ford 1)*.
+
+  1. The factor "pointed out the shortcomings of the colonists *(Ibid.)*."
+
+  2. He reveals himself to be "a buffoon unable to negotiate hfe in the New World *(Ibid.)*."
+
+- As a result, both audiences for the poem, the English citizens and colonists, would find it humorous *(Ibid.)*.
+
+  1. The English citizens would laugh at the portryal of colonists as uncivilized *(Ibid.)*.
+
+  2. The colonists would laugh at the British factor's ineptitude *(Ibid.)*.

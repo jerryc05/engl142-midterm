@@ -83,6 +83,8 @@ To be a part of Humane kind:
 ```text
 The subject described the Sot-Weed (tobacco) planters as
 poentially "non-human."
+He desire to separate himself from the colonists begins
+by describing them as "lower class" and "uncivilized" (Ford 3).
 ```
 
 But wanton Nature, void of Rest,
@@ -372,6 +374,10 @@ To give his Verdict on a Stranger's part:
 The subject is merciless in his description of the
 incompetence of the judicial system in Annapolis by
 phrases including "get drunk" and "rarely give verdicts."
+He made these comments when realized that the problem of
+being the "outsider" - the court "sides with the colonists
+to give the factor a fake victory,"
+pay "inperishable goods" (Ford 9).
 ```
 
 Now Court being call'd `(called)` by beat of Drum,
